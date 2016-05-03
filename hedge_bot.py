@@ -10,7 +10,7 @@ def sendImages():
     execfile("config.py", config)
 
     supported_file_types = ('.jpg','.gif','.png')
-    DIR = 'Hedges'
+    DIR = config["DIR"]
     image_list = []
 
     #Creating a list of all the file names in DIR
