@@ -4,6 +4,9 @@ consumer_secret = 'xxxxxxxx'
 access_key = 'xxxxxxxx'
 access_secret = 'xxxxxxxx'
 
+#Directory that contains the images to be used
+DIR = "Hedges"
+
 #atbtest is a dummy acount, feel free to spam him
 #each friend must be enclose in "" and end with a comma
 friends = (
